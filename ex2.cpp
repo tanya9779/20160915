@@ -10,7 +10,6 @@ int main()
         good_incrementor(&x);
         std::cout << "x changed: " << x << std::endl;
 
-   std::cin >> x;
         return 0;
 }
 
